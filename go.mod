@@ -1,4 +1,4 @@
-module github.com/sergalkin/otus-go/hw-1
+module github.com/sergalkin/otus-go-hw-1
 
 go 1.14
 
